@@ -35,11 +35,7 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## Smart Contract
 
-The application interacts with an Ethereum smart contract deployed at:
-```
-0x887e67767f970bB178b7f285c1D7E26cC859F613
 ```
 
 ## Usage
