@@ -45,19 +45,3 @@ npm run dev
 3. Store your encrypted will using IPFS
 4. Manage beneficiary verification
 5. Confirm death to trigger the inheritance process
-
-## Technologies Used
-
-- React.js
-- Ethers.js
-- Tailwind CSS
-- Vite
-- Ethereum Smart Contracts
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
